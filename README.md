@@ -1,10 +1,16 @@
-# StackOverFlow-App
-One of the most popular platforms for programmers and developers, Stack Overflow, can be a good Flutter project idea. You will use stack overflow questions API, flutter bloc, an awesome user interface, and more in this project
+# afp
 
+A new Flutter project.
 
-Execution:
-There are 2 folders in this project, 1 is of Flutter code and other is of API. "afp" is supposed to be run by the command (flutter run -d chrome --web-browser-flag "--disable-web-security") interminal of VS code and the other folder DjangoDjStack will run through cmd command (python manage.py runserver)
+## Getting Started
 
-Credits:
-This is code is taken from other source.
-Credits: https://github.com/iampawan/FlutterStackOverflowApp 
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
